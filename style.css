@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Skranji&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&display=swap');
+
+body {
+	background: rgb(83, 90, 145);
+    font-family: 'Gabriela', serif;
+    text-align: center;
+}
+
+.list-left {
+	text-align: left;
+}
+
+img{
+    	border-radius: 50%;
+  		border:3px solid #404463;
+}
+div{
+	margin-top: 40px;
+	margin-left: 250px;
+    margin-right: 250px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 60px;
+    padding-left: 60px;
+    border-radius: 8px;
+    background: rgb(102, 107, 149);
+    box-shadow: 4px 3px 20px 3px #494d74;
+}
+h1{
+	color: white;
+	font-size: 50px;
+	font-family: 'Gabriela', cursive;
+	text-align: center;
+}
+h2{
+	color: #c3c3c3;
+	font-family: 'Gabriela', cursive;
+	text-align: center;
+}
+h3{
+	color: white;
+	text-align: center;
+}
+
+.button{
+	background-color: #4a4872;
+	border: none;
+	color: white;
+	padding: 15px;
+	taxt-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin:  4px 2px;
+	border-radius: 2rem;
+}
+.fab.fa-facebook{
+	color: white;
+}
+.fab.fa-twitter-square{
+	color: white;
+}
+.fab.fa-instagram-square{
+	color: white;
+}
